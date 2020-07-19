@@ -1,1 +1,2 @@
-test_value: 888999888999dev
+config:
+  info: "888999888999dev"
